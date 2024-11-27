@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "TradingEngineServer.Instrument/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Instrument.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Instrument.dll": {}
+        }
+      },
+      "TradingEngineServer.Orders/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Orders.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Orders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingEngineServer.Instrument/1.0.0": {
+      "type": "project",
+      "path": "../InstrumentLibrary/InstrumentLibrary.csproj",
+      "msbuildProject": "../InstrumentLibrary/InstrumentLibrary.csproj"
+    },
+    "TradingEngineServer.Orders/1.0.0": {
+      "type": "project",
+      "path": "../OrdersLibrary/OrdersLibrary.csproj",
+      "msbuildProject": "../OrdersLibrary/OrdersLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "TradingEngineServer.Instrument >= 1.0.0",
+      "TradingEngineServer.Orders >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nithinpillai/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrderBookLibrary/OrderBookLibrary.csproj",
+      "projectName": "TradingEngineServer.Orderbook",
+      "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrderBookLibrary/OrderBookLibrary.csproj",
+      "packagesPath": "/Users/nithinpillai/.nuget/packages/",
+      "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrderBookLibrary/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj": {
+              "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj"
+            },
+            "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj": {
+              "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

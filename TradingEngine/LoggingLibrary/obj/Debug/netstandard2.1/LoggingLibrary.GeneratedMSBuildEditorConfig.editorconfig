@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TradingEngineServer.Logging
+build_property.ProjectDir = /Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/

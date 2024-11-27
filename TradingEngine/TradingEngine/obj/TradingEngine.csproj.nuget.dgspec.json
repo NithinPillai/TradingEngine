@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj": {}
+  },
+  "projects": {
+    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj",
+        "projectName": "TradingEngineServer.Logging",
+        "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj",
+        "packagesPath": "/Users/nithinpillai/.nuget/packages/",
+        "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Threading.Tasks.Dataflow": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj",
+        "projectName": "TradingEngineServer.Core",
+        "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj",
+        "packagesPath": "/Users/nithinpillai/.nuget/packages/",
+        "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj": {
+                "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
