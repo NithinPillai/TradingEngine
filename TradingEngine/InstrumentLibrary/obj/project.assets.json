@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
-      "projectName": "InstrumentLibrary",
-      "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
+      "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
+      "projectName": "TradingEngineServer.Instrument",
+      "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
       "packagesPath": "/Users/nithinpillai/.nuget/packages/",
-      "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/obj/",
+      "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/InstrumentLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"

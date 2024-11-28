@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sHb1shzy37h3Cn+FptQO3uUHjwxgp1gsBO6Xfje1j2FAuxLfgapZTy01esvGALXN57Sr8dAxwLEgl2Y/fNHVlQ==",
+  "dgSpecHash": "VFqovsQdEEjSEJ2TNU7dPSdfM64KGB9TfnUka3ZXwtyk33CXYMp1lSNlGIcPfm6R4EJPEC9qGU8Vbgpy/p2dqQ==",
   "success": true,
-  "projectFilePath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
+  "projectFilePath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/InstrumentLibrary/InstrumentLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

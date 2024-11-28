@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpDrJ03Ac2pDR94dvv1dMj36KjV/NJW2kzXu41/QJdl/P931Z37K045CIiyy75P9ski9ZtPfJasdF3eH53O87w==",
+  "dgSpecHash": "bIzAG580Ps2HypPDGkpmk6wyM+7xMCNx9jeSVBGXY/QCm/+K8tOVl01stsatExfYpaxa+P7rvQJc0Pd/jOVdSw==",
   "success": true,
-  "projectFilePath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
+  "projectFilePath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,3 +8,13 @@
 /Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/bin/Debug/netstandard2.1/TradingEngineServer.Logging.pdb
 /Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/TradingEngineServer.Logging.dll
 /Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/TradingEngineServer.Logging.pdb
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/bin/Debug/netstandard2.1/TradingEngineServer.Logging.deps.json
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/bin/Debug/netstandard2.1/TradingEngineServer.Logging.dll
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/bin/Debug/netstandard2.1/TradingEngineServer.Logging.pdb
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/LoggingLibrary.csproj.AssemblyReference.cache
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/LoggingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/LoggingLibrary.AssemblyInfoInputs.cache
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/LoggingLibrary.AssemblyInfo.cs
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/LoggingLibrary.csproj.CoreCompileInputs.cache
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/TradingEngineServer.Logging.dll
+/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/obj/Debug/netstandard2.1/TradingEngineServer.Logging.pdb

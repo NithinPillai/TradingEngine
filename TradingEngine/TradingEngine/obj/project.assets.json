@@ -2210,11 +2210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj",
+      "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/TradingEngine/TradingEngine.csproj",
       "projectName": "TradingEngineServer.Core",
-      "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/TradingEngine.csproj",
+      "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/TradingEngine/TradingEngine.csproj",
       "packagesPath": "/Users/nithinpillai/.nuget/packages/",
-      "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/TradingEngine/obj/",
+      "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/TradingEngine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"
@@ -2229,8 +2229,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj": {
-              "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/LoggingLibrary/LoggingLibrary.csproj"
+            "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/LoggingLibrary.csproj": {
+              "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/LoggingLibrary/LoggingLibrary.csproj"
             }
           }
         }

@@ -1,18 +1,26 @@
 ﻿<Properties StartupConfiguration="{957608A0-32D1-405C-BE17-2FEA13B9AD79}|Default">
+  <MonoDevelop.Ide.ItemProperties.TradingEngine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TradingEngine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>InstrumentLibrary/InstrumentLibrary.csproj</String>
+    <String>LoggingLibrary/LoggingLibrary.csproj</String>
+    <String>OrderBookLibrary/OrderBookLibrary.csproj</String>
+    <String>OrdersLibrary/OrdersLibrary.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workbench ActiveDocument="TradingEngine/Program.cs">
     <Files>
-      <File FileName="TradingEngine/Program.cs" Line="10" Column="10" />
+      <File FileName="TradingEngine/Program.cs" Line="14" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TradingEngine" expanded="True">
-            <Node name="TradingEngine" expanded="True" selected="True">
+            <Node name="TradingEngine" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
@@ -20,6 +28,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>

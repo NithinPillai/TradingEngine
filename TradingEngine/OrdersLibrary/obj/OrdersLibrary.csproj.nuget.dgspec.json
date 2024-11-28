@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj": {}
+    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/OrdersLibrary.csproj": {}
   },
   "projects": {
-    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj": {
+    "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/OrdersLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
-        "projectName": "OrdersLibrary",
-        "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
+        "projectUniqueName": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
+        "projectName": "TradingEngineServer.Orders",
+        "projectPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/OrdersLibrary.csproj",
         "packagesPath": "/Users/nithinpillai/.nuget/packages/",
-        "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngine/OrdersLibrary/obj/",
+        "outputPath": "/Users/nithinpillai/Workspace/Visual_Studio_Projects/TradingEngineServer/TradingEngine/OrdersLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nithinpillai/.nuget/NuGet/NuGet.Config"
